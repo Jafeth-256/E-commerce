@@ -1,0 +1,11 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "E-commerce template",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "Jeiner Vargas",
+  "license": "ISC"
+}
