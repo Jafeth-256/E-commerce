@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Esto hará que el contenedor ocupe toda la altura de la pantalla */
+    overflow: hidden; /* Esto ocultará cualquier contenido que se desborde del contenedor */
+}
